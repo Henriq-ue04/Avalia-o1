@@ -1,0 +1,5 @@
+class Main {
+   public static voind main (String[] args) {
+      System.out.println("ola essa e a atividade 1!");
+  }
+}
