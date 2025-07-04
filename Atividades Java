@@ -1,0 +1,12 @@
+questão 1-o que e java ?
+_e uma linguagem de programação de alto nivel_.
+questão 2-crie uma linguagem java.
+_     public class OlaMundo {
+         public static void main(String[] args) {
+             System.out.println("Olá, Mundo!");
+         }
+     }
+questão 3-como funcionam as linguagens java?
+_E uma linguagem de programação orientada a
+objetos,conhecida por sua portabilidade e 
+uso em diversas plataformas.
