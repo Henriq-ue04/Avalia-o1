@@ -1,12 +1,33 @@
-questão 1-o que e java ?
-_e uma linguagem de programação de alto nivel_.
-questão 2-crie uma linguagem java.
-_     public class OlaMundo {
-         public static void main(String[] args) {
-             System.out.println("Olá, Mundo!");
-         }
-     }
-questão 3-como funcionam as linguagens java?
-_E uma linguagem de programação orientada a
-objetos,conhecida por sua portabilidade e 
-uso em diversas plataformas.
+questão 1-qual das alternativas descreve 
+corretamente uma característica de uma 
+linguagem de baixo nível?
+a)e independente do hardware e fácil 
+aprender.
+b)possui sintaxe próxima a linguagem 
+humana.
+c)❌oferece maior controle sobre o
+hardware,mas e difícil de programar 
+d)e executada diretamente pela JVM
+questão 2-assinale a alternativa que apresenta
+apenas linguagens de alto nível.
+a)assenbly,java e phython
+b)❌c,java e python 
+c)java, python e code 
+d)c,assenbly e machine code 
+questão 3-qual das alternativas representa uma
+característica de um algoritmo compilada.
+a)❌E traduzido pelo código de máquina 
+antes de ser executado.
+b)E interpretado linha por linha durante 
+a execução.
+c) não precisa ser traduzido.
+d) não precisa de um arquivo executável 
+para ser rodado.
+questão 4-qual e a principal vantagem de pro-
+gramas compilados?
+a)tem melhor desempenho em comparação com 
+programas compilados.
+b)❌podem ser executados imediatamente sem
+uma etapa ou compilação.
+c) não, depende de um ambiente.
+d) não precisa.
