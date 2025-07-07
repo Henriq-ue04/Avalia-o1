@@ -46,4 +46,4 @@ quados para cada uma.
 R=nome do produto ,quantidade em estoque,preço unitário e disponibilidade para venda 
 questão 9-quais variáveis você criaria para
 representar essas informações?
-R=
+R=As variáveis seriam: nomeEvento (string), numParticipantes (inteiro), precoIngresso (float/double) e eventoPresencial (booleano).
