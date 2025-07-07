@@ -40,6 +40,10 @@ R=precisamos das variáveis nomecompleto
 (string),idade (inteiro) e altura 
 (pontoflutuante).
 questão 7-identifique as variáveis nessesarias.
- nome do produto (String), quantidade em estoque (Integer), preço unitário (Double) e disponibilidade para venda (Boolean).
+ R=nome do produto (String), quantidade em estoque (Integer), preço unitário (Double) e disponibilidade para venda (Boolean).
 questão 8-determine os tipos de dados ade-
-quados para cada uma. 
+quados para cada uma.
+R=nome do produto ,quantidade em estoque,preço unitário e disponibilidade para venda 
+questão 9-quais variáveis você criaria para
+representar essas informações?
+R=
