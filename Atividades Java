@@ -31,3 +31,12 @@ b)❌podem ser executados imediatamente sem
 uma etapa ou compilação.
 c) não, depende de um ambiente.
 d) não precisa.
+questão 5-quais váriaveis devem ser 
+criadas?
+R=string,(int),float,double,(bool)
+questão 6-quais tipos de dados cada uma delas 
+deve ter?
+R=precisamos das variáveis nomecompleto
+(string),idade (inteiro) e altura 
+(pontoflutuante).
+questão 7-identifique as variáveis nessesarias.
